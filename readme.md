@@ -1,5 +1,5 @@
 (Embedded Intent Recognizer)
-The proect is built for simple intent recognization from the terminal
+The project is built for simple intent recognization from the terminal
 Intent_Recognizer_run runnable can be executed via command line. test cases be executed from Intent_Recognizer_tst
 
 
