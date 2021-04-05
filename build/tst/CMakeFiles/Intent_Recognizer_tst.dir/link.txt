@@ -1,1 +1,0 @@
-/usr/bin/c++ -g -rdynamic CMakeFiles/Intent_Recognizer_tst.dir/intent-test.cpp.o CMakeFiles/Intent_Recognizer_tst.dir/main.cpp.o -o Intent_Recognizer_tst  ../src/libIntent_Recognizer_lib.a ../lib/libgtestd.a -lpthread 
