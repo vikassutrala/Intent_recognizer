@@ -7,6 +7,7 @@ Google test frame work has been choosen from submodule https://github.com/google
 after cloning the repository do the following commands to update the submodule
 
 git submodule init
+
 git submodule update
 
 Pre requisits: 
