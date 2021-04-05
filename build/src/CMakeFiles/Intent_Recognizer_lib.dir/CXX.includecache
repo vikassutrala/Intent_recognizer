@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vikas/Intent_recognize/src/intent.cpp
+iostream
+-
+vector
+-
+regex
+-
+intent.h
+/home/vikas/Intent_recognize/src/intent.h
+
+/home/vikas/Intent_recognize/src/intent.h
+vector
+-
+
+/home/vikas/Intent_recognize/src/main.cpp
+iostream
+-
+vector
+-
+regex
+-
+intent.h
+/home/vikas/Intent_recognize/src/intent.h
+

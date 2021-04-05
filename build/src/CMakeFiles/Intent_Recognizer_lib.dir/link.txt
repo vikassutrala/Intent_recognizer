@@ -1,0 +1,2 @@
+/usr/bin/ar qc libIntent_Recognizer_lib.a CMakeFiles/Intent_Recognizer_lib.dir/intent.cpp.o CMakeFiles/Intent_Recognizer_lib.dir/main.cpp.o
+/usr/bin/ranlib libIntent_Recognizer_lib.a
