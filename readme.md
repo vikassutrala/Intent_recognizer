@@ -17,7 +17,9 @@ Pre requisits:
 build the project :
 
 cd build
+
 cmake .. -DCMAKE_BUILD_TYPE=Debug -G "Unix Makefiles" 
+
 make all
 
 find the executables: 
